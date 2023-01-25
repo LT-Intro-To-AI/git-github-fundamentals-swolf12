@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub - the not so basic coding platform
+
+Summary: You can create different versions of code to experiment and improve it, without affecting the real thing. Once done you can merge it back in with a commit and then a pull request.
 
 ## 🤓 Course overview and learning outcomes 
 
